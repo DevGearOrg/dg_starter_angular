@@ -5,5 +5,5 @@ init:
 run:
 	docker-compose up
 
-shell:
+sh:
 	docker-compose run --rm client sh
